@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "babb48238e0ae72e",
+    "type": "split",
+    "children": [
+      {
+        "id": "def5f5d68db655a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46affe3e0bc6c050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "math/les ensemble de chiffre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "704e149bb0304885",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "math/preuve que un ⅓ n'est pas décimal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69fd327fd583515b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "math/la démonstration par l'absurde.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d206a9aea4632611",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e6127c7a60464bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "707f5fe8920b6865",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46561282a353cd7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5d3fc747d8552a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "87b01fce5482abd3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd4cedccb082cd53",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a02216217ecf260",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "feefda5facaf2d85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "math/preuve que un ⅓ n'est pas décimal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67eb58118794c72c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "math/preuve que un ⅓ n'est pas décimal.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1dcf1833e2cb8128",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ffb34d7283c93947",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "math/preuve que un ⅓ n'est pas décimal.md"
+              }
+            }
+          },
+          {
+            "id": "0b69a6382b9f06c1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "704e149bb0304885",
+  "lastOpenFiles": [
+    "math/les ensemble de chiffre.md",
+    "school-notes/README.md",
+    "school-notes",
+    "math/la démonstration par l'absurde.md",
+    "math/preuve que un ⅓ n'est pas décimal.md",
+    "preuve que un tier  n'est pas décimal.md",
+    "preuve que 1/3 n'est pas décimal.md",
+    "preuve que 1",
+    "$/mathbb{N}$.md",
+    "$",
+    "images",
+    "francais",
+    "histoire",
+    "math"
+  ]
+}
